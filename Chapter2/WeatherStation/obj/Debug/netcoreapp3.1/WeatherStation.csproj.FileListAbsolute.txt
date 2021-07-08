@@ -1,0 +1,13 @@
+C:\Users\a806535\source\repos\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.exe
+C:\Users\a806535\source\repos\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.deps.json
+C:\Users\a806535\source\repos\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.runtimeconfig.json
+C:\Users\a806535\source\repos\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.runtimeconfig.dev.json
+C:\Users\a806535\source\repos\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.dll
+C:\Users\a806535\source\repos\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.pdb
+C:\Users\a806535\source\repos\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.csproj.AssemblyReference.cache
+C:\Users\a806535\source\repos\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.AssemblyInfoInputs.cache
+C:\Users\a806535\source\repos\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.AssemblyInfo.cs
+C:\Users\a806535\source\repos\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.csproj.CoreCompileInputs.cache
+C:\Users\a806535\source\repos\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.dll
+C:\Users\a806535\source\repos\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.pdb
+C:\Users\a806535\source\repos\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.genruntimeconfig.cache
